@@ -1,6 +1,6 @@
 # 关于项目
 1. 利用PicGo与GitHub仓库搭建简易的图床。
-2. 图片来源于个人收集上传。
+2. 图片来源于网络收集，并通过PicGo上传至GitHub。
 
 
 ## 其他相关
@@ -11,5 +11,5 @@
 
 
 ## 项目测试图
-![](https://raw.githubusercontent.com/MkingSakura/Sakura-img/main/Image/202211201015861.jpg)
+![](https://raw.githubusercontent.com/MkingSakura/MoMoimg/main/MoMo/202211201015859.jpg)
 
